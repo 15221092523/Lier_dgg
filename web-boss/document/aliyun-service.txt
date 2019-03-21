@@ -1,0 +1,139 @@
+中远方舟----------------
+oss
+
+    /**
+     * 阿里云API的外网域名
+     */
+    public static final String ENDPOINT = "http://oss-cn-beijing.aliyuncs.com/";
+
+    /**
+     * 外网访问域名
+     */
+    public static final String CLIENT_ENDPOINT = "http://zyark.oss-cn-beijing.aliyuncs.com/";
+
+    /**
+     * 阿里云API的密钥Access Key ID
+     */
+    public static final String ACCESS_KEY_ID = "LTAImm2yUE2oU0iR";
+
+    /**
+     * 阿里云API的密钥Access Key Secret
+     */
+    public static final String ACCESS_KEY_SECRET = "VrVXdpgccFM79mfhrnEzS2WvibwdBf";
+
+    /**
+     * 阿里云API的bucket名称
+     */
+    public static final String BACKET_NAME = "zyark";
+
+    /**
+     * 阿里云API的文件夹名称
+     */
+    public static final String FOLDER="content/";
+
+    public static final String FREFIX = CLIENT_ENDPOINT + FOLDER;
+
+sms
+
+    /**
+     * accessKeyId
+     */
+    public final static String accessKeyId = "LTAIq4LwR4mnhEkG";
+
+    /**
+     * accessKeySecret
+     */
+    public final static String accessKeySecret = "CznmpVmcOPwgJAtyYRGV3ufwZzcEjz";
+
+    /**
+     * 短信API产品名称（短信产品名固定，无需修改）
+     */
+    public final static String product = "Dysmsapi";
+
+    /**
+     * 短信API产品域名（接口地址固定，无需修改）
+     */
+    public final static String domain = "dysmsapi.aliyuncs.com";
+
+    /**
+     * 必填:短信签名-可在短信控制台中找到
+     */
+    public final static String signName = "阿里云短信测试专用";
+
+    /**
+     * 模板代码
+     */
+    public final static String templateCode = "SMS_130790252";
+
+
+新风管家----------------
+oss
+    /**
+     * 阿里云API的外网域名
+     */
+    public static final String ENDPOINT = "http://oss-cn-hongkong.aliyuncs.com/";
+
+    /**
+     * 外网访问域名
+     */
+    public static final String CLIENT_ENDPOINT = "http://freshairsteward.oss-cn-hongkong.aliyuncs.com/";
+
+    /**
+     * 阿里云API的密钥Access Key ID
+     */
+    public static final String ACCESS_KEY_ID = "LTAINv0vrE0E3hJ9";
+
+    /**
+     * 阿里云API的密钥Access Key Secret
+     */
+    public static final String ACCESS_KEY_SECRET = "Ax3IHoxGyoyJl8zRXd8vzkYtRtxQq7";
+
+    /**
+     * 阿里云API的bucket名称
+     */
+    public static final String BACKET_NAME = "freshairsteward";
+
+    /**
+     * 阿里云API的文件夹名称
+     */
+    public static final String FOLDER="content/";
+
+    public static final String FREFIX = CLIENT_ENDPOINT + FOLDER;
+
+
+sms
+     /**
+     * accessKeyId
+     */
+    public final static String accessKeyId = "LTAINv0vrE0E3hJ9";
+
+    /**
+     * accessKeySecret
+     */
+    public final static String accessKeySecret = "Ax3IHoxGyoyJl8zRXd8vzkYtRtxQq7";
+
+    /**
+     * 短信API产品名称（短信产品名固定，无需修改）
+     */
+    public final static String product = "Dysmsapi";
+
+    /**
+     * 短信API产品域名（接口地址固定，无需修改）
+     */
+    public final static String domain = "dysmsapi.aliyuncs.com";
+
+    /**
+     * 必填:短信签名-可在短信控制台中找到
+     */
+    public final static String signName = "新风管家";
+
+    /**
+     * 模板代码
+     */
+    public final static String templateCode = "SMS_142055368";
+
+绿建-------------------
+oss
+
+
+sms
