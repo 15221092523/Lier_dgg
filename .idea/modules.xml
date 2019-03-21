@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Lier_dgg.iml" filepath="$PROJECT_DIR$/.idea/Lier_dgg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-config/common-config.iml" filepath="$PROJECT_DIR$/common-config/common-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-parent/common-parent.iml" filepath="$PROJECT_DIR$/common-parent/common-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dgg-client/dgg-client.iml" filepath="$PROJECT_DIR$/dgg-client/dgg-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-boss/web-boss.iml" filepath="$PROJECT_DIR$/web-boss/web-boss.iml" />
     </modules>
   </component>
 </project>

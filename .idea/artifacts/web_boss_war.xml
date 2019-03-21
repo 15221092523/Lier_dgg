@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="web-boss:war">
+    <output-path>$PROJECT_DIR$/web-boss/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>web-boss</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="web-boss.war">
+      <element id="artifact" artifact-name="web-boss:war exploded" />
+    </root>
+  </artifact>
+</component>
