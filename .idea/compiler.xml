@@ -19,8 +19,8 @@
       <module name="common-core" target="1.5" />
       <module name="common-parent" target="1.8" />
       <module name="dgg-client" target="1.8" />
-      <module name="interface-core" target="1.5" />
-      <module name="service-core" target="1.5" />
+      <module name="interface-core" target="1.8" />
+      <module name="service-core" target="1.8" />
       <module name="web-boss" target="1.8" />
     </bytecodeTargetLevel>
   </component>
