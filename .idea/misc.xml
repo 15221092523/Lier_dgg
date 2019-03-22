@@ -11,6 +11,9 @@
       <list>
         <option value="$PROJECT_DIR$/common-config/pom.xml" />
         <option value="$PROJECT_DIR$/common-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/interface-core/pom.xml" />
+        <option value="$PROJECT_DIR$/service-core/pom.xml" />
+        <option value="$PROJECT_DIR$/common-core/pom.xml" />
       </list>
     </option>
   </component>
